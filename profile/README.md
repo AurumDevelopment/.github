@@ -1,6 +1,6 @@
 ## Howdy! 👋
 
-Aurum Development is a software development team dedicated to effortless docker virtualization solutions.
+Aurum Development is a software development team dedicated to effortless, remote, computer management & hosting solutions.
 
 ## Our Projects
 
